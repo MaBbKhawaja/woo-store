@@ -1,0 +1,7 @@
+{
+  "name": "wooionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
